@@ -1,0 +1,29 @@
+.container{
+    
+}
+.row{ 
+    height: auto;
+}
+
+.pfp{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: 40px;
+    height: 300px;  
+}
+
+.jumbotron{
+    background-color: aliceblue;
+    width: auto;
+}
+
+.text{
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon{
+    height: 50px;  
+}
